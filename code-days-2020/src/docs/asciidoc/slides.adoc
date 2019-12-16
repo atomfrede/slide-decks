@@ -1,0 +1,55 @@
+:icons: font
+:twitter-tag: @atomfrede
+:conference-tag: #codedays2020
+:talk-tag: #jhipster
+:revnumber: {project-version}
+:example-caption!:
+:source-highlighter: highlightjs
+:revealjs_width: "90%"
+:imagesdir: {docdir}/src/docs/asciidoc/images
+:sourcedir: {docdir}/src/main/java
+:customcss: css/custom.css
+:revealjs_plugin_pdf: enabled
+:revealjs_theme: moon
+:linkattrs:
+
+= Getting Hip with JHipster
+
+include::{includedir}/footer.adoc[]
+include::{includedir}/click-mouse-navigation.adoc[]
+
+
+== Getting hip with JHipster
+
+== Introduction
+
+[%step]
+* This is an example deck.
+* This deck teaches something.
+* We just haven't decided what that is yet.
+
+== Speaker Notes
+
+Press the `*s*` key to access speaker notes.
+
+[NOTE.speaker]
+--
+You've unlocked the super secret notes area.
+Neat huh?
+--
+
+== Source Code
+
+[source,java]
+.Java code from project
+----
+include::{sourcedir}/example/StringUtils.java[tags=contains,indent=0]
+----
+
+
+== Blank screen
+
+You can press `*b*` or `*.*` to blank your current screen.
+
+Hit it again to bring it back.
+
