@@ -1,3 +1,42 @@
+@import url('https://fonts.googleapis.com/css?family=Pacifico&display=swap');
+
+.jhipster {
+  font-family: 'Pacifico', cursive;
+}
+
+.h2 {
+  font-family: 'Pacifico', cursive;
+}
+
+.reveal section img {
+  border: none;
+  box-shadow: none;
+}
+
+section.blue.background {
+  background-color: #4660b6;
+}
+
+section.light-blue.background {
+  background-color: #3e8acc;
+}
+
+section.white.text {
+  color: white;
+}
+
+section.white.text h2 {
+  color: white;
+}
+
+section.white.text a {
+  color: white;
+  text-decoration: underline;
+}
+
+.large-text {
+  font-size: 1.5em;
+}
 
 .footer {
   position: absolute;
